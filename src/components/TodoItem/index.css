@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  display: flex;
+  width: 500px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.delete-btn {
+  height: 32px;
+  width: 90px;
+  color: #ff0b37;
+  background-color: transparent;
+  border-radius: 8px;
+  border-color: #ff0b37;
+}
